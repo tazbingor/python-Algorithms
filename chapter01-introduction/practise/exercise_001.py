@@ -3,7 +3,7 @@
 # @Time    : 18/1/14 上午12:16
 # @Author  : Aries
 # @Site    : 
-# @File    : exercises_001.py
+# @File    : exercise_001.py
 # @Software: PyCharm
 '''
 1.执行一个简单方法getNum和getDen,以返回分数的分子和分母
