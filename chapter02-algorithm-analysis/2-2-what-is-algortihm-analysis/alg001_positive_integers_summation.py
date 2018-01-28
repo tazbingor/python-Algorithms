@@ -66,8 +66,8 @@ def sum_of_n_3(n):
 
 
 if __name__ == '__main__':
-    print(sum_of_n(10))  # 55
-    print(foo(10))  # 55
+    # print(sum_of_n(10))  # 55
+    # print(foo(10))  # 55
 
     for i in range(5):
         print('Sum is %d required % 10.7f seconds' % sum_of_n_2(10000))
