@@ -21,7 +21,7 @@ def getDen(fraction):
 
 
 if __name__ == '__main__':
-    # print(getNum(1/2))
+
     fraction = Fraction(1 / 2)
     print(fraction)  # 1/2
     print(type(fraction))  # <class 'fractions.Fraction'>
