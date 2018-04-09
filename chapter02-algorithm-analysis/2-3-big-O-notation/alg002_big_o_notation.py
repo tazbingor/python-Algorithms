@@ -8,3 +8,11 @@
 '''
 大O表示法
 '''
+fbbs = []
+for fbb in range(1, 999):
+    fbbs.append(fbb)
+
+print(fbbs)
+zx = min(fbbs)
+zd = max(fbbs)
+print(zx, '-', zd)
