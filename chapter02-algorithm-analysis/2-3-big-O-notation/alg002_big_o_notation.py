@@ -31,4 +31,4 @@ for fbb in range(1, 999):
 print(fbbs)
 zx = min(fbbs)
 zd = max(fbbs)
-print(zx, '-', zd)
+print(zx, '-', zd);
